@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Unica+One&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+h1
+{
+	font-family: 'Fascinate Inline', cursive;
+	font-size: 50px;
+}
+
+body
+{
+	font-family:'Unica One', cursive;
+	font-weight: bold;
+	margin: 0px;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
